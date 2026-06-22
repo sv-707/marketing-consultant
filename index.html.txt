@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Marketing Consultation Services</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <h1>Grow Your Business with Better Marketing</h1>
+
+    <p>I help businesses improve their marketing strategy and generate more leads.</p>
+
+    <a href="contact.html">Book a Consultation</a>
+
+</body>
+</html>
